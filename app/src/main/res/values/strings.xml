@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConvertor</string>
+    <string name="title">TempConvertor</string>
+    <string name="hintText">Type in a temp</string>
+    <string name="buttonText">Convert</string>
+    <string name="FtC">Farenheit to Celcius</string>
+    <string name="CtF">Celcius to Farenheit</string>
+</resources>
